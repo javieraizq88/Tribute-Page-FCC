@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+.ta-c{
+    text-align: center;
+}
+.container{
+    margin-top: 0;
+    background: blue;
+    padding: 1rem;
+    background: linear-gradient(45deg, #10f, transparent);
+}
+#image{
+    padding-right: 6rem;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-div{
+    margin: 2rem 10rem;
+}
+#img-caption{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+#tribute-info{
+    border: 2rem solid #e89c1b;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmHbzsiJ5guGJIXG5GAJXZXEbKgaiiDpvgQ&usqp=CAU);
+    padding: 2rem 4rem;
+
+}
+
+.footer{
+    margin-right: 2rem;
+    float: right;
+}
